@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{D51E20F0-BD9D-4EED-A10F-2C19C6471F77}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FinalTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FinalTest/UnitTest1.cs">
+    <Files>
+      <File FileName="FinalTest/UnitTest1.cs" Line="38" Column="6" />
+      <File FileName="FinalTest/BaseClass.cs" Line="22" Column="46" />
+      <File FileName="FinalTest/Signin.cs" Line="10" Column="106" />
+      <File FileName="FinalTest/ForgotPassword.cs" Line="16" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalTest" expanded="True">
+            <Node name="FinalTest" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="FinalTest" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
